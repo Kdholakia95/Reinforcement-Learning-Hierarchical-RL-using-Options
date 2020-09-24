@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Hierarchical-RL
+# Reinforcement-Learning-Hierarchical-RL-using-Options
 SMDP Q-learning and Intra Option Q-learning
 
 Implementing 1-step SMDP Q-learning and intra-option Q-learning in "FourRooms" environment developed using OpenAI Gym framework
